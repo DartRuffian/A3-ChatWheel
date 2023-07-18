@@ -14,4 +14,4 @@ This mod is ***not*** my own. This mod was created by Mithu Ral (`jenenna985` on
 
 ![Jen's View on Accessability Mods](.github/jen_credits.png)
 
-I am working on my own fork of this system, which will be linked to here when it has reached a state I am happy with.
+[I am working on my own fork of this system](https://github.com/DartRuffian/A3-ChatWheel-Redux).
